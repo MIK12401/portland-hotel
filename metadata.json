@@ -1,0 +1,6 @@
+{
+  "name": "Portland Suites Abuja",
+  "description": "A luxury boutique sanctuary in Wuse II, Abuja, offering premium accommodations, facilities, and personalized hospitality.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
